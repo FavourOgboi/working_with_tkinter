@@ -3,8 +3,7 @@
 <b><i>A repo that guides users to use tkinter</i></b>
 
 <samp>Files.py in order</samp>
-- &nbsp; <samp>new_windows_box.py<samp/>
-- &nbsp; <samp>.py<samp/>
+
 - &nbsp; <samp>new_windows_box.py<samp/>
 - &nbsp; <samp>grid.py<samp/>
 - &nbsp; <samp>button.py<samp/>
